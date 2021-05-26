@@ -42,7 +42,7 @@ export class Register extends Component {
     render() {
         return (
             <div>
-                <h3 className="text-danger">Registration Page</h3>
+                <h3 className="text-success">Registration Page</h3>
                 <hr/>
                 <form onSubmit={this.handleSubmit}>
                     <div className='form-group'>
